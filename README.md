@@ -1,4 +1,7 @@
 ### Hi there 👋
+> 🌱 I’m currently learning
+
+### Keep-Alive --- Do more ~
 
 <!--
 **Liuhongwei3/Liuhongwei3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
